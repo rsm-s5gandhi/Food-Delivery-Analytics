@@ -1,11 +1,11 @@
 # Food Delivery Analytics: DoorDash vs Uber Eats 2020–2024
-
 An interactive Tableau Public dashboard analyzing the US food delivery duopoly 
 across 6 chart types, built entirely from real company filings and industry data.
 
 ## Dashboard Overview
 <img width="1414" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/be044bd2-a57b-4673-ae7f-d6616db196bf" />
-[View on Tableau Public] https://public.tableau.com/views/DDVSUE/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+[View on Tableau Public](https://public.tableau.com/views/DDVSUE/Dashboard1)
 
 ## What's Inside
 | Chart | Type | Story |
