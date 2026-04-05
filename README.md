@@ -29,4 +29,4 @@ across 6 chart types, built entirely from real company filings and industry data
 - Data sourced and structured manually from primary sources
 
 ## Author
-Sakshi Gandhi · [LinkedIn](YOUR_LINKEDIN_HERE)
+Sakshi Gandhi · [LinkedIn](https://www.linkedin.com/in/sakshigandhi0603/)
