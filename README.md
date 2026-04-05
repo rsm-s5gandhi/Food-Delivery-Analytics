@@ -3,8 +3,10 @@
 An interactive Tableau Public dashboard analyzing the US food delivery duopoly 
 across 6 chart types, built entirely from real company filings and industry data.
 
-## Live Dashboard
-[View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+## Dashboard Overview
+![1775419778973-b199a73e-d6a6-459e-ae9e-ff1f029e5d51_1](https://github.com/user-attachments/assets/2c600642-6962-4e89-b98f-a20a895ca9c7)
+
+[View on Tableau Public](https://public.tableau.com/views/DDVSUE/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## What's Inside
 | Chart | Type | Story |
