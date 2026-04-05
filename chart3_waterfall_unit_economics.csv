@@ -1,0 +1,17 @@
+Platform,Year,Step,Step_Order,Value_B,Running_Total_B,Bar_Start_B,Bar_Type,Label
+DoorDash,2024,Gross Order Value,1,80.20,80.20,0,Total,$80.2B GOV
+DoorDash,2024,Take Rate (Revenue),2,10.72,10.72,0,Subtotal,$10.7B Revenue
+DoorDash,2024,Cost of Revenue,3,-4.87,5.85,10.72,Negative,-$4.9B
+DoorDash,2024,Gross Profit,4,5.85,5.85,0,Subtotal,$5.9B Gross Profit
+DoorDash,2024,Sales & Marketing,5,-1.30,4.55,5.85,Negative,-$1.3B
+DoorDash,2024,R&D,6,-0.82,3.73,4.55,Negative,-$0.8B
+DoorDash,2024,G&A,7,-0.98,2.75,3.73,Negative,-$1.0B
+DoorDash,2024,Adj. EBITDA,8,1.92,1.92,0,Positive,$1.9B EBITDA
+Uber Eats,2024,Gross Bookings,1,74.60,74.60,0,Total,$74.6B Bookings
+Uber Eats,2024,Take Rate (Revenue),2,13.70,13.70,0,Subtotal,$13.7B Revenue
+Uber Eats,2024,Cost of Revenue,3,-7.10,6.60,13.70,Negative,-$7.1B
+Uber Eats,2024,Gross Profit,4,6.60,6.60,0,Subtotal,$6.6B Gross Profit
+Uber Eats,2024,Sales & Marketing,5,-1.90,4.70,6.60,Negative,-$1.9B
+Uber Eats,2024,R&D,6,-2.55,2.15,4.70,Negative,-$2.6B
+Uber Eats,2024,G&A,7,-1.47,0.68,2.15,Negative,-$1.5B
+Uber Eats,2024,Adj. EBITDA,8,3.96,3.96,0,Positive,$4.0B EBITDA

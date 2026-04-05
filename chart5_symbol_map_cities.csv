@@ -1,0 +1,25 @@
+City,State,Region,Latitude,Longitude,Platform,Year,Est_Monthly_Orders_K,Est_Annual_GOV_M,Market_Leader,Top_Category,Avg_Order_Value_USD,Market_Leader_Platform
+New York,NY,Northeast,40.7128,-74.0060,DoorDash,2024,8200,2952,No,Sushi/Japanese,34.50,Uber Eats
+New York,NY,Northeast,40.7128,-74.0060,Uber Eats,2024,5900,2242,Yes,Sushi/Japanese,38.00,Uber Eats
+Los Angeles,CA,West,34.0522,-118.2437,DoorDash,2024,6100,2440,Yes,Mexican,29.50,DoorDash
+Los Angeles,CA,West,34.0522,-118.2437,Uber Eats,2024,3200,1280,No,Mexican,33.00,DoorDash
+Chicago,IL,Midwest,41.8781,-87.6298,DoorDash,2024,3900,1560,Yes,Pizza,28.00,DoorDash
+Chicago,IL,Midwest,41.8781,-87.6298,Uber Eats,2024,1800,648,No,Pizza,31.50,DoorDash
+Houston,TX,South,29.7604,-95.3698,DoorDash,2024,2900,1044,Yes,American/Burgers,27.50,DoorDash
+Houston,TX,South,29.7604,-95.3698,Uber Eats,2024,1100,396,No,American/Burgers,30.00,DoorDash
+San Francisco,CA,West,37.7749,-122.4194,DoorDash,2024,1600,672,No,Sushi/Japanese,42.00,Uber Eats
+San Francisco,CA,West,37.7749,-122.4194,Uber Eats,2024,1900,798,Yes,Sushi/Japanese,42.00,Uber Eats
+Miami,FL,South,25.7617,-80.1918,DoorDash,2024,2100,756,Yes,Latin/Cuban,31.00,DoorDash
+Miami,FL,South,25.7617,-80.1918,Uber Eats,2024,1400,504,No,Latin/Cuban,35.00,DoorDash
+Seattle,WA,West,47.6062,-122.3321,DoorDash,2024,1400,588,Yes,American/Burgers,42.00,DoorDash
+Seattle,WA,West,47.6062,-122.3321,Uber Eats,2024,1000,400,No,American/Burgers,40.00,DoorDash
+Boston,MA,Northeast,42.3601,-71.0589,DoorDash,2024,1500,570,Yes,Sandwiches,38.00,DoorDash
+Boston,MA,Northeast,42.3601,-71.0589,Uber Eats,2024,900,324,No,Sandwiches,36.00,DoorDash
+Phoenix,AZ,West,33.4484,-112.0740,DoorDash,2024,1800,630,Yes,American/Burgers,35.00,DoorDash
+Phoenix,AZ,West,33.4484,-112.0740,Uber Eats,2024,700,245,No,American/Burgers,35.00,DoorDash
+Dallas,TX,South,32.7767,-96.7970,DoorDash,2024,2500,900,Yes,American/Burgers,36.00,DoorDash
+Dallas,TX,South,32.7767,-96.7970,Uber Eats,2024,900,324,No,American/Burgers,36.00,DoorDash
+Atlanta,GA,South,33.7490,-84.3880,DoorDash,2024,1900,684,Yes,American/Burgers,36.00,DoorDash
+Atlanta,GA,South,33.7490,-84.3880,Uber Eats,2024,800,288,No,American/Burgers,36.00,DoorDash
+Washington,DC,Northeast,38.9072,-77.0369,DoorDash,2024,2000,780,Yes,Sushi/Japanese,39.00,DoorDash
+Washington,DC,Northeast,38.9072,-77.0369,Uber Eats,2024,1300,494,No,Sushi/Japanese,38.00,DoorDash
